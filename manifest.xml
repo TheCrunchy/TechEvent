@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PluginManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>TechEvent</Name>
+  <Guid>d1fa8aa4-91da-4eee-82f1-85cc35c4969a</Guid>
+  <Version>v1.0.0</Version>
+</PluginManifest>
